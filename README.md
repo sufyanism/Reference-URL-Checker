@@ -29,7 +29,7 @@ Ensure you have Python installed. The script does not require external dependenc
 
 ## Usage
 Run the script to check URLs:
-python url_checker.py
+python app.py
 
 
 ## About Me 
